@@ -180,7 +180,7 @@ footer {
 /* animation */
 @keyframes slide-in {
   from {
-    left: 0;
+    left: 0.5;
   }
   to {
     left: 50%;
